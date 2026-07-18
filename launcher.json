@@ -3,14 +3,9 @@
   "launcherVersion": "1.0.0",
   "modpackVersion": "1.0.0",
   "minecraftVersion": "1.21.1",
-  "loader": "NeoForge",
-  "loaderVersion": "21.1.235",
+  "neoforgeVersion": "21.1.235",
   "serverAddress": "single-destroyed.gl.joinmc.link",
   "news": [
-    {
-      "title": "Bienvenido a PeterosMC",
-      "content": "Servidor en desarrollo.",
-      "date": "2026-07-18"
-    }
+    "Bienvenido a PeterosMC — Servidor en desarrollo."
   ]
 }
